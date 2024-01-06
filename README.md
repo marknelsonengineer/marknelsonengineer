@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 - Hi, I’m Mark
 - I’m interested in Cybersecurity
 - I’m currently learning SGX2 instructions
